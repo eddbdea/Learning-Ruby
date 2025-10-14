@@ -28,3 +28,5 @@ puts "eduard"[200] # -> return nil because the index is bigger than our string l
 variable = "interpolation";
 puts "Testing #{variable}"
 puts 'Testing #{variable}' # -> single ' are for literal strings - it is fast and predictable
+
+# gets -> is used to get any input from user standard screen called STDIN (standard input)
